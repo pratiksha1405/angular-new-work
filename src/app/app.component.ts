@@ -49,4 +49,10 @@ Salary:19000
  ]};
 
 
+delFunc(event){
+  let obj;
+alert("deleted");
+         
+}
+
 }
