@@ -51,7 +51,10 @@ Salary:19000
 
 delFunc(event){
   let obj;
-alert("deleted");
+this.obj+=event.target.obj+ ' | ';
+
+alert("Enter the Id to delete the user");
+
          
 }
 
